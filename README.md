@@ -9,9 +9,7 @@
 
 <div id="bio">
   <h2>Philosophical Data Scientist</h2>
-  <p>Building bridges between thought and bits, one line of code at a time.</p>
-  <p>Data scientist by day, philosopher by night (and sometimes in between code reviews).</p>
-  <p>☕️ Exploring the universe of data with a skeptical eye and a curious mind. Ask me about AI, ethics, and the meaning of it all.</p>
+  <p>Data scientist by day, philosopher by night.</p>
   <p>Decoding the secrets of code and consciousness. Join me on the quest to understand how machines think (and if they should).</p>
   <p>I'm currently learning about Causal Inference and SLM/LLMs, as well as deepening my experience in Azure.</p>
 </div>
