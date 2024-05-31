@@ -10,8 +10,7 @@
 <div id="bio">
   <h2>Philosophical Data Scientist</h2>
   <p>Data scientist by day, philosopher by night.</p>
-  <p>Decoding the secrets of code and consciousness. Join me on the quest to understand how machines think (and if they should).</p>
-  <p>I'm currently learning about Causal Inference and SLM/LLMs, as well as deepening my experience in Azure.</p>
+  <p>I'm currently learning about Data Engineering, Causal Inference, as well as deepening my experience in Azure.</p>
 </div>
 
 <div id="stats">
