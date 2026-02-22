@@ -8,8 +8,8 @@
 
 <div id="bio" align= "left">
   <h2>Philosopher, Data Scientist</h2>
-  <p>I have a decade of experience in philospohy eduction, and 2+ years in creating Azure Data Science and Engineering products. </br>
-   I'm currently studying Causal Inference, as well as deepening my experience in Azure.</p>
+  <p>I have a decade of experience in philospohy eduction, and 5+ years in creating Data Science and Engineering products. </br>
+   I'm currently studying Causal Inference, as well as deepening my experience in the AWS platform.</p>
 </div>
 
 <div id="stats" align = "left">
